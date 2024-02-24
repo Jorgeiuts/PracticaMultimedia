@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaMultimedia</string>
+    <string name="txtBtnMusica">Reproducir Musica</string>
+    <string name="txtBtnVideo">Reproducir Video</string>
+</resources>
